@@ -1,6 +1,6 @@
 // Link footer to GitHub
 document.querySelector('#footer').addEventListener('click', event => {
-    window.open('https://github.com/mochatek', '_blank')
+    window.open('https://github.com/Satyam7010', '_blank')
 })
 
 
